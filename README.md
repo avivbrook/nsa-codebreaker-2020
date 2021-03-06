@@ -2,6 +2,8 @@
 
 My solutions to the 2020 [NSA Codebreaker Challenge](https://codebreaker.ltsnet.net/home).
 
+Head into the directories for each task to see the individual solutions (`task5` was my personal favourite!).
+
 ## Overview
 
 The 2020 Codebreaker Challenge consists of a series of tasks that are worth a varying amount of points based upon their difficulty. This year, we are releasing the challenge in multiple phases.
